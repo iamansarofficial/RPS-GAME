@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+.gameDiv{
+    font-family: "Cinzel";
+    border: 15px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+    height: 750px;
+}
+#playerText{
+    color: blue;
+    margin-top: 18%;
+}
+#computerText{
+    color: red;
+}
